@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iGBEOKHNwxvlgjhUBCesmLVpGpSSQvH4EeBxUUSfQO8=",
+  "Source": "jwt4",
+  "BasePath": "_content/jwt4",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
